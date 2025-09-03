@@ -1,2 +1,3 @@
 # NewCoding
-New Repo
+This is my first repo.
+Author - Saira.
